@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/College_API/obj
+/College_API/bin/Debug/net6.0
+/College_API/.vs/College_API/v17
+/College_API/Client/College_Frontend/.vscode
